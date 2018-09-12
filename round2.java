@@ -180,7 +180,7 @@ class Hashes{
 }
 
 
-public class GFG {
+public class round2 {
 	public static void main (String[] args) throws Exception {
 		int nodes =0;
 		nodes++;
